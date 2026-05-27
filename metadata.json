@@ -1,0 +1,6 @@
+{
+  "name": "Artigo e Simulador: IA em Embarcados ARM",
+  "description": "Artigo científico completo sobre a aplicação de IA em sistemas embarcados ARM na automação de um estacionamento inteligente, acompanhado de um simulador dinâmico de hardware e registradores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
